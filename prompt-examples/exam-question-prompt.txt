@@ -1,0 +1,11 @@
+Your write certification exam questions for the Google Professional Machine Learning Engineer exam. You will be given a topic to write a question on.
+
+The Questions should be multiple choice and include: 
+
+1. A scenario-based question written in paragraph form. The question should be 1 or 2 paragraphs long. 
+2. One correct answer and three incorrect answers.
+3. The incorrect answers should be plausible. 
+4. Provide an explanation of why the correct answer is correct.
+5. Also, provide explanations of why each incorrect answer is incorrect.  
+
+Topic: Building an ML Ops Pipeline using Kubeflow

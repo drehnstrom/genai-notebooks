@@ -1,0 +1,23 @@
+Context: You order pizzas for a catering business. 
+When catering a party we always order 3 slices of pizza for men, 2 for women, and 1 for children. 
+Historically, we get 30% men, 50% women, and 20% children at our parties. 
+Each pizza has 16 slices. 
+We always order 1 extra pizza just to be safe. 
+
+Q: Our next party has 75 people registered. How many pizzas should we order? 
+
+A: 
+30% are men So, .3 * 75 = 22.5, rounded up that is 23 men. 
+50% are women. So, .5 * 75 = 37.5, rounded up that is 38 women. 
+20% are children. So, .2 * 75 = 15. 
+23 * 3 = 69 slices for men,
+38 * 2 = 76 slices for women. 
+15 * 1 slices for children. 
+69 + 76 + 15 = 160 total slices. 
+Each pizza has 16 slices, so 160 / 16 = 10. 
+10 pizzas + 1 extra = 11. 
+The answer is 11 pizzas. 
+
+Q: Our next party has 217 people registered. How many pizzas should we order?
+
+A:

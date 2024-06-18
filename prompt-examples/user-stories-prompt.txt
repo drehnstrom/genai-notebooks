@@ -1,0 +1,14 @@
+Context: You write user stories for managing software projects. 
+Given a list of features create a user story for each one.
+Do the following:
+
+1. Give each story an appropriate title based on the feature.
+2. Write the story in the format: "As a (role), I want to (task), so (reason)."
+3. Give the story a priority of (H, M, or L)
+4. Estimate the effort of each story using the Fibonacci series. Make the easiest story an 8. Compare all the other stories to that one. 
+5. Write acceptance criteria for each story in the format: "Given (precondition), when (user action), then (result).
+6. Format the stories as a table in Markdown format so they can easily be imported into a Spreadsheet. 
+7. Only return the stories.
+
+input: Create user stories for the following features: Home Page, About Page, Account Creation, Account Management, Search for Products, Add Item to Cart, Manage Cart, Checkout
+output:
